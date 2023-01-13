@@ -1,1 +1,2 @@
-# curriculo
+# Currículo
+## Contato profissional
